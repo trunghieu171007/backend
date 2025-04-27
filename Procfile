@@ -1,1 +1,1 @@
-start: python bot.py
+start: python hi.py
